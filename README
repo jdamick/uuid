@@ -16,4 +16,11 @@ Example
 UUID.generate()
 
 
+Code
+====
+git clone git://github.com/jdamick/uuid.git
+- or install as a plugin -
+./script/plugin install git://github.com/jdamick/uuid.git
+
+
 Copyright (c) 2009 Jeffrey Damick, released under the MIT license
