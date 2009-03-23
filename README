@@ -1,0 +1,19 @@
+Uuid
+=============
+
+Based on the same interface that UUID from Assaf Arkin:
+http://github.com/assaf/uuid/tree/master
+
+The main difference is that this class simply wraps the native java
+methods when used in JRuby based applications.
+
+This class creates a universally unique identifier (UUID), representing a 128-bit value. 
+
+
+Example
+=======
+
+UUID.generate()
+
+
+Copyright (c) 2009 Jeffrey Damick, released under the MIT license
